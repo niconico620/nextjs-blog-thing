@@ -17,7 +17,7 @@ function Hero() {
 			<h1 className="mb-6 mt-8 font-mono text-4xl font-bold tracking-normal text-gray-300">
 				Sup, it's Kneeco!
 			</h1>
-			<p className="w-90 mx-auto max-w-xl text-xl leading-relaxed tracking-wide text-gray-300">
+			<p className="w-90 text-md mx-auto max-w-xl font-sans tracking-wide text-gray-300 md:text-xl md:leading-relaxed">
 				I talk about my interests and whatever else comes into mind. This is a
 				place for me to share my thoughts.
 			</p>
